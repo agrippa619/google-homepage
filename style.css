@@ -1,0 +1,44 @@
+
+* {
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+  }
+  
+  #logoimg {
+
+    width:279px;
+    height:92px;
+    
+
+
+  }
+
+  .logo {
+      
+    position:relative;
+    top:200px;
+    width:279px;
+    height:92px;
+    margin: 0 auto;
+    
+  
+  }
+  
+    form {
+
+
+    }
+
+  #mainsb {
+    
+    border-color:grey;
+    border-radius: 25px;
+    width:500px;
+    height:25px;
+   
+  
+    
+  }
+
+  
