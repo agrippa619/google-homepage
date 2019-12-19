@@ -5,40 +5,58 @@
             box-sizing: border-box;
   }
   
-  #logoimg {
-
-    width:279px;
-    height:92px;
-    
-
-
-  }
-
   .logo {
-      
     position:relative;
     top:200px;
     width:279px;
     height:92px;
     margin: 0 auto;
-    
-  
   }
-  
-    form {
 
-
-    }
+  .logo img {
+    width:279px;
+    height:92px;
+  }
+    
+  .form {
+    position:relative;
+    margin: 0 auto;
+    width:500px;
+    height:25px;
+    top:220px;
+  }
 
   #mainsb {
-    
+    position:relative;
     border-color:grey;
     border-radius: 25px;
     width:500px;
     height:25px;
-   
-  
+    margin: 0 auto;
+  }
+
+  #buscar {
+    width:130px;
+    height:34px;
+    text-align: center;
+    cursor: pointer;
+    position:relative;
+    top: 30px;
+    left:120px;
+    margin-right:20px;
+    background-color: #f1f1f1;
     
+  }
+
+  #lucky {
+    width:130px;
+    height:34px;
+    text-align: center;
+    cursor: pointer;
+    position:relative;
+    top: 30px;
+    left:120px;
+    background-color: #f1f1f1;
   }
 
   
